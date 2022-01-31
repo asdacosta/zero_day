@@ -1,3 +1,2 @@
-**Zero_day Info**
-* Making sure there are no hacks
-* Protecting resources
+#Zero_day
+* It protects vulenrabilities to prevent hacks
