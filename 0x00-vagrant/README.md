@@ -1,3 +1,3 @@
-**Info about the file**
-* Contains a file which has the command for uname
+# Info about the file
+* The file contains the output for the command uname
 
